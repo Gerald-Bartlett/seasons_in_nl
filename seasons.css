@@ -1,3 +1,9 @@
+
+
+ body{
+  width: min(195vw, 1920px);
+  font-size: clamp(1.3rem, 7vw, 2rem);
+}
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap');
 
 :root {
